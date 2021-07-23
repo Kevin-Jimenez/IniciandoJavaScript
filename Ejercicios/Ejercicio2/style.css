@@ -1,0 +1,50 @@
+.title{
+    background-color: gray;
+    margin: auto;
+    padding: 10px;
+    width: 400px;
+    height: 80px;
+    font-size: 15px;
+    font-family:monospace;
+    border-radius: 20px;
+    box-shadow: 7px 10px 20px;
+    border: 4px double black;
+}
+p{
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;    
+    text-decoration-line: underline;
+    text-decoration-style:solid;
+    text-decoration-color: black;
+}
+.cuadro{
+    background-color: gray;
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px;
+    width: 200px;
+    height: 400px;
+    font-size: 15px;
+    font-family:monospace;
+    border-radius: 20px;
+    box-shadow: 7px 10px 20px;
+    border: 4px double black;
+}
+.field{
+    margin:auto;
+    padding: 5px;
+    background-color: white;
+    width: 190px;
+    border: none;
+    border-radius: 7px;
+    font-family: monospace;
+}
+#boton{
+    margin: auto;
+    padding: 10px;
+    width: 200px;
+    border-radius: 20px;
+    font-family: monospace;
+    background-color: slategrey;
+}
